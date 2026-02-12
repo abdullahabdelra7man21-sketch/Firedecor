@@ -6,7 +6,6 @@
 #include <wayfire/render-manager.hpp>
 #include <wayfire/view.hpp>
 #include <wayfire/util/duration.hpp>
-#include <wayfire/plugins/common/simple-texture.hpp>
 #include "cairo-util.hpp"
 
 #include <cairo/cairo.h>
